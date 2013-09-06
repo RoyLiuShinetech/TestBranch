@@ -23,5 +23,9 @@ namespace ConsoleApplication1
         private void DevelopmentMethod1()
         {
         }
+
+        private void DevelopmentMethod2()
+        {
+        }
     }
 }
