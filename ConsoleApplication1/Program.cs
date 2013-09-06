@@ -27,5 +27,9 @@ namespace ConsoleApplication1
         private void DevelopmentMethod2()
         {
         }
+
+        private void ShinetechMethod3()
+        {
+        }
     }
 }
