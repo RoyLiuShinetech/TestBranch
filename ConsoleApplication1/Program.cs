@@ -35,5 +35,9 @@ namespace ConsoleApplication1
         private void DevelopmentMethod3()
         {
         }
+
+        private void DevelopmentMethod4()
+        {
+        }
     }
 }
