@@ -11,5 +11,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
         }
+
+        private void ShinetechMethod1()
+        {
+        }
     }
 }
