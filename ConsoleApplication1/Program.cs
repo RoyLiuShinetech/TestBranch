@@ -48,5 +48,8 @@ namespace ConsoleApplication1
         {
         }
 
+        private void DevelopmentMethod6()
+        {
+        }
     }
 }
